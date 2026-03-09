@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <adResponse networkId="83583" version="1">
+      <visitor/>
+      <ads>
+        <ad adId="1" adUnit="1">
+          <creatives>
+            <creative adUnit="video" baseUnit="video" creativeId="1" duration="29.0">
+              <creativeRenditions>
+                <creativeRendition creativeApi="None" creativeRenditionId="1" height="1080" preference="0" width="1920">
+                  <asset bytes="1014433" contentType="application/vnd.apple.mpegurl" id="1" mimeType="application/vnd.apple.mpegurl" name="National Geographic" url="https://raw.githubusercontent.com/Fahad-Imran-Humanoid-Robots/Creative-Ads/refs/heads/main/National%20Geographic/playlist.m3u8"/>
+                </creativeRendition>
+              </creativeRenditions>
+            </creative>
+          </creatives>
+        </ad>
+        <ad adId="2" adUnit="2">
+          <creatives>
+            <creative adUnit="video" baseUnit="video" creativeId="2" duration="59.0">
+              <creativeRenditions>
+                <creativeRendition creativeApi="None" creativeRenditionId="1" height="1080" preference="0" width="1920">
+                  <asset bytes="1014433" contentType="application/vnd.apple.mpegurl" id="1" mimeType="application/vnd.apple.mpegurl" name="DailyMotion" url="https://raw.githubusercontent.com/Fahad-Imran-Humanoid-Robots/Creative-Ads/refs/heads/main/Dailymotion/playlist.m3u8"/>
+                </creativeRendition>
+              </creativeRenditions>
+            </creative>
+          </creatives>
+        </ad>
+        <ad adId="3" adUnit="3">
+          <creatives>
+            <creative adUnit="video" baseUnit="video" creativeId="3" duration="70.0">
+              <creativeRenditions>
+                <creativeRendition creativeApi="None" creativeRenditionId="1" height="1080" preference="0" width="1920">
+                  <asset bytes="1014433" contentType="application/vnd.apple.mpegurl" id="1" mimeType="application/vnd.apple.mpegurl" name="Animal Planet" url="https://raw.githubusercontent.com/Fahad-Imran-Humanoid-Robots/Creative-Ads/refs/heads/main/Animal%20Planet/playlist.m3u8"/>
+                </creativeRendition>
+              </creativeRenditions>
+            </creative>
+          </creatives>
+        </ad>
+        <ad adId="4" adUnit="4">
+          <creatives>
+            <creative adUnit="video" baseUnit="video" creativeId="4" duration="64.0">
+              <creativeRenditions>
+                <creativeRendition creativeApi="None" creativeRenditionId="1" height="1080" preference="0" width="1920">
+                  <asset bytes="1014433" contentType="application/vnd.apple.mpegurl" id="1" mimeType="application/vnd.apple.mpegurl" name="WWE" url="https://raw.githubusercontent.com/Fahad-Imran-Humanoid-Robots/Creative-Ads/refs/heads/main/WWE/playlist.m3u8"/>
+                </creativeRendition>
+              </creativeRenditions>
+            </creative>
+          </creatives>
+        </ad>
+      </ads>
+      <siteSection customId="my_channel">
+        <videoPlayer>
+          <videoAsset customId="150926">
+            <adSlots>
+              <temporalAdSlot adUnit="Standard Pre" customId="preroll0" source="generated" timePosition="0" timePositionClass="preroll">
+                <selectedAds>
+                  <adReference adId="1" creativeId="1" creativeRenditionId="1" replicaId="0"/>
+                </selectedAds>
+              </temporalAdSlot>
+            </adSlots>
+          </videoAsset>
+    </videoPlayer>
+    </siteSection>
+    </adResponse>
