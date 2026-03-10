@@ -53,7 +53,7 @@
             <adSlots>
               <temporalAdSlot adUnit="Standard Pre" customId="preroll0" source="generated" timePosition="0" timePositionClass="preroll">
                 <selectedAds>
-                  <adReference adId="1" creativeId="1" creativeRenditionId="1" replicaId="0"/>
+                  <adReference adId="4" creativeId="4" creativeRenditionId="1" replicaId="0"/>
                 </selectedAds>
               </temporalAdSlot>
             </adSlots>
